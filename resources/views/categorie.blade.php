@@ -1,1 +1,0 @@
-<h3>Bonjour Categorie</h3>
